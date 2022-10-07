@@ -1,0 +1,18 @@
+﻿  tests.cpp
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(119,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(71,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(70): message : al compilar la función del miembro clase plantilla "int Graph<Enrut>::size(void)"
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(152): message : Vea la referencia a la creación de una instancia de la función plantilla "int Graph<Enrut>::size(void)" que se está compilando
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(150): message : Vea la referencia a la creación de una instancia de clase plantilla "Graph<Enrut>" que se está compilando
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(29,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(26): message : al compilar la función del miembro clase plantilla "void Graph<Enrut>::resize_nodes(T)"
+          with
+          [
+              T=Enrut
+          ]
+C:\Users\Esteban\source\repos\tests\tests\tests.cpp(67): message : Vea la referencia a la creación de una instancia de la función plantilla "void Graph<Enrut>::resize_nodes(T)" que se está compilando
+          with
+          [
+              T=Enrut
+          ]
+  tests.vcxproj -> C:\Users\Esteban\source\repos\tests\x64\Debug\tests.exe
